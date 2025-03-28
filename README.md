@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mauro Ruiz and I'm 20 years old student of computer systems engineering of ITS, Coahuila, Mexico. born in Saltillo Coahuila</h2>
+<h2 align="left">Hi 👋! My name is Mauro Ruiz and I'm 20 years old,student of computer systems engineering of ITS, Coahuila, Mexico. born in Saltillo Coahuila</h2>
 
 ###
 
