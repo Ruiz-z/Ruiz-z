@@ -1,4 +1,4 @@
-<h2 align="center">"No Matter how many mistakes your make or how slow your progress, you are still way ahead of everyone who isn't trying"</h2>
+<h2 align="center">"No Matter how many mistakes you make or how slow your progress, you are still way ahead of everyone who isn't trying"</h2>
 
 ###
 
